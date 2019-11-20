@@ -13,4 +13,5 @@ collections:
       - {label: "Title", name: "title", widget: "string", default: "Entry"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "GIF", name: "gif", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
